@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\VeriYapılarıÖdev1\VeriYapılarıÖdev1\bin\Debug\VeriYapılarıÖdev1.exe.config
+C:\Users\Lenovo\Desktop\VeriYapılarıÖdev1\VeriYapılarıÖdev1\bin\Debug\VeriYapılarıÖdev1.exe
+C:\Users\Lenovo\Desktop\VeriYapılarıÖdev1\VeriYapılarıÖdev1\bin\Debug\VeriYapılarıÖdev1.pdb
+C:\Users\Lenovo\Desktop\VeriYapılarıÖdev1\VeriYapılarıÖdev1\obj\Debug\VeriYapılarıÖdev1.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\VeriYapılarıÖdev1\VeriYapılarıÖdev1\obj\Debug\VeriYapılarıÖdev1.Form1.resources
+C:\Users\Lenovo\Desktop\VeriYapılarıÖdev1\VeriYapılarıÖdev1\obj\Debug\VeriYapılarıÖdev1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\VeriYapılarıÖdev1\VeriYapılarıÖdev1\obj\Debug\VeriYapılarıÖdev1.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\VeriYapılarıÖdev1\VeriYapılarıÖdev1\obj\Debug\VeriYapılarıÖdev1.exe
+C:\Users\Lenovo\Desktop\VeriYapılarıÖdev1\VeriYapılarıÖdev1\obj\Debug\VeriYapılarıÖdev1.pdb
